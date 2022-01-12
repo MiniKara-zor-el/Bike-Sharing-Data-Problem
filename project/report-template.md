@@ -35,12 +35,14 @@ I would try different algorithms like xgboost and different regression algorithm
 TODO: Replace the image below with your own.
 
 ![model_train_score.png](nd009t-c1-intro-to-ml-project-starter/model_train_score.png)
+![train](https://user-images.githubusercontent.com/96059146/149206899-07407867-228c-45e3-a1ae-60c6f20eb4ed.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
 ![model_test_score.png](nd009t-c1-intro-to-ml-project-starter/model_test_score.png)
+![test](https://user-images.githubusercontent.com/96059146/149206807-f463d44e-c9ea-404e-8fa2-50893c9e8947.png)
 
 ## Summary
 Final inference is kaggle score improved by using hyperparameters and adding extra features.
